@@ -6,11 +6,11 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("BoringDotNet.Random")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("Interfaces and implementations for random number generators.")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("BoringDotNet.Random")]
-[assembly: AssemblyCopyright("Copyright ©  2013")]
+[assembly: AssemblyCompany("Eric Lathrop")]
+[assembly: AssemblyProduct("BoringDotNet.Random.Tests")]
+[assembly: AssemblyCopyright("Copyright © 2014 Eric Lathrop")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
